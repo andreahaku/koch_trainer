@@ -1,0 +1,16 @@
+{
+  "name": "koch_trainer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "play-sound": "^1.1.6",
+    "wav": "^1.0.2"
+  },
+  "scripts": {
+    "generate-wav": "node generate_letters.js",
+    "run-lessons": "node index.js"
+  },
+  "author": "",
+  "description": ""
+}
